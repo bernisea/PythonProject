@@ -1,0 +1,10 @@
+2025-02-26 17:46:44,619 - INFO - ====== WebDriver manager ======
+2025-02-26 17:46:45,464 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-26 17:46:45,590 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-26 17:46:45,706 - INFO - Driver [C:\Users\berni\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-26 17:46:46,774 - INFO - ****Test_01_Admin_Login title***test_title_verification***
+2025-02-26 18:15:50,335 - INFO - ====== WebDriver manager ======
+2025-02-26 18:15:51,389 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-26 18:15:51,560 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-26 18:15:52,022 - INFO - Driver [C:\Users\berni\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-02-26 18:15:53,406 - INFO - ****Test_01_Admin_Login title***test_title_verification***
